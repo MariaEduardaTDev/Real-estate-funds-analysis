@@ -5,7 +5,7 @@ I use **visual visualizations** (scatter plots, bubble charts, etc.) to better u
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 * Python
 * Pandas
@@ -29,7 +29,7 @@ I use **visual visualizations** (scatter plots, bubble charts, etc.) to better u
 
 ---
 
-## 📝 How to Run
+## How to Run
 
 1. Clone this repository:
 
