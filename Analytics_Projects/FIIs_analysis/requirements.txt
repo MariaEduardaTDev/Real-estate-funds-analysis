@@ -1,0 +1,11 @@
+
+
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+statsmodels
+kaleido # exportar imagens de gráficos plotly
+python-dateutil
