@@ -41,6 +41,7 @@ I use **visual visualizations** (scatter plots, bubble charts, etc.) to better u
 ---
 
 2. Create a virtual environment (recommended)
+   
    ```bash
    python -m venv venv
    source venv/bin/activate   # On Linux/Mac
@@ -49,12 +50,14 @@ I use **visual visualizations** (scatter plots, bubble charts, etc.) to better u
 ---
 
 3. Install dependencies
+   
     ```bash
    pip install -r requirements.txt
    ```
 ---
 
 4. Run Jupyter Notebook
+   
     ```bash
    jupyter notebook
      ```
