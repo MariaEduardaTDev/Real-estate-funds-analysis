@@ -49,13 +49,13 @@ I use **visual visualizations** (scatter plots, bubble charts, etc.) to better u
 ---
 
 3. Install dependencies
- ```bash
+    ```bash
    pip install -r requirements.txt
    ```
 ---
 
 4. Run Jupyter Notebook
- ```bash
-jupyter notebook
-  ```
+    ```bash
+   jupyter notebook
+     ```
 
