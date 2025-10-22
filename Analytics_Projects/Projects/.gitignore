@@ -1,0 +1,6 @@
+# Ignorar arquivos de banco de dados e temporários
+*.db
+__pycache__/
+*.pyc
+.vscode/
+.env
